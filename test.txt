@@ -1,0 +1,3 @@
+$ git remote add origin git@githup.com:LinJianfu/learngit.git
+$ git push -u origin master
+$ git push origin master
